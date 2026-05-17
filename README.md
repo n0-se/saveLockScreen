@@ -1,5 +1,5 @@
-# save_lock_screen
-Save Lock Screen
+# Save Lock Screen
+Windows-specific lock screen wallpaper saver.
 
 ## ✔ How to use
 ```
